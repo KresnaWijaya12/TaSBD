@@ -39,13 +39,13 @@ Partial Class Form2
         Me.MenuStrip1.ImageScalingSize = New System.Drawing.Size(20, 20)
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(1115, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(1115, 30)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
         'Button1
         '
-        Me.Button1.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.Button1.BackColor = System.Drawing.SystemColors.Highlight
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(4, 38)
         Me.Button1.Name = "Button1"
