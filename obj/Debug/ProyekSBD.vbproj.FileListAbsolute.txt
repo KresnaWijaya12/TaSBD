@@ -1,0 +1,14 @@
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\bin\Debug\ProyekSBD.exe.config
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\bin\Debug\ProyekSBD.exe
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\bin\Debug\ProyekSBD.pdb
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\bin\Debug\ProyekSBD.xml
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.vbproj.AssemblyReference.cache
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.Resources.resources
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.vbproj.GenerateResource.cache
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.vbproj.CoreCompileInputs.cache
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.exe
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.xml
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.pdb
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.Form1.resources
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.Form2.resources
+C:\File Kampus\Koding les\ProyekSBD\ProyekSBD\obj\Debug\ProyekSBD.Form3.resources
